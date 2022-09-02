@@ -1,8 +1,4 @@
 EJEMPLO:
 
-Bruno Balduccio (157967) -> Usuario de GitHub: brubaldu
-Guillermo Aerosa (210030) -> Usuario de GitHub: areosaguillermo
+Ignacio Malamud (271968) -> Usuario de GitHub: nachomalamud
 
----------------------------------------------------------------
-
-ALUMNOS:
